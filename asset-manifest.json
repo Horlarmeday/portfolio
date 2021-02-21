@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7ccb3a07.chunk.css",
-    "main.js": "/portfolio/static/js/main.8214ac09.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8214ac09.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.cc9bf75e.chunk.css",
+    "main.js": "/portfolio/static/js/main.a01c2493.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a01c2493.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.f0adb8f4.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.f0adb8f4.js.map",
-    "static/js/2.3a6459ae.chunk.js": "/portfolio/static/js/2.3a6459ae.chunk.js",
-    "static/js/2.3a6459ae.chunk.js.map": "/portfolio/static/js/2.3a6459ae.chunk.js.map",
+    "static/js/2.792002a2.chunk.js": "/portfolio/static/js/2.792002a2.chunk.js",
+    "static/js/2.792002a2.chunk.js.map": "/portfolio/static/js/2.792002a2.chunk.js.map",
     "static/css/3.3a26ebde.chunk.css": "/portfolio/static/css/3.3a26ebde.chunk.css",
     "static/js/3.7f2d9fad.chunk.js": "/portfolio/static/js/3.7f2d9fad.chunk.js",
     "static/js/3.7f2d9fad.chunk.js.map": "/portfolio/static/js/3.7f2d9fad.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.c0b9b3d6.chunk.js": "/portfolio/static/js/4.c0b9b3d6.chunk.js",
     "static/js/4.c0b9b3d6.chunk.js.map": "/portfolio/static/js/4.c0b9b3d6.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.02f79767df10e5eeb59cee89884667ee.js": "/portfolio/precache-manifest.02f79767df10e5eeb59cee89884667ee.js",
+    "precache-manifest.4823cf057d844d34ef35f02ff480b48a.js": "/portfolio/precache-manifest.4823cf057d844d34ef35f02ff480b48a.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/3.3a26ebde.chunk.css.map": "/portfolio/static/css/3.3a26ebde.chunk.css.map",
     "static/css/4.21259c32.chunk.css.map": "/portfolio/static/css/4.21259c32.chunk.css.map",
-    "static/css/main.7ccb3a07.chunk.css.map": "/portfolio/static/css/main.7ccb3a07.chunk.css.map",
-    "static/js/2.3a6459ae.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3a6459ae.chunk.js.LICENSE.txt",
+    "static/css/main.cc9bf75e.chunk.css.map": "/portfolio/static/css/main.cc9bf75e.chunk.css.map",
+    "static/js/2.792002a2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.792002a2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/centrifugelogo.png": "/portfolio/static/media/centrifugelogo.1e3e2084.png",
     "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.51cf7192.svg",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f0adb8f4.js",
-    "static/js/2.3a6459ae.chunk.js",
-    "static/css/main.7ccb3a07.chunk.css",
-    "static/js/main.8214ac09.chunk.js"
+    "static/js/2.792002a2.chunk.js",
+    "static/css/main.cc9bf75e.chunk.css",
+    "static/js/main.a01c2493.chunk.js"
   ]
 }
